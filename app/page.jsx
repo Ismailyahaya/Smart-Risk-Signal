@@ -1,4 +1,4 @@
-```jsx
+jsx
 export default function Home() {
   return (
     <main style={{
@@ -30,20 +30,4 @@ export default function Home() {
         cursor: 'pointer'
       }}>
         
-      </button>
-      <section style={{
-        backgroundColor: 'rgba(0,0,0,0.2)',
-        padding: '20px 30px',
-        borderRadius: '10px',
-        maxWidth: '500px',
-        textAlign: 'center'
-      }}>
-        <h2 style={{ marginTop: 0 }}>About</h2>
-        <p>
-          Smart Risk Signal is an innovative app designed to help you make safe and smart decisions every day. Stay ahead and be informed!
-        </p>
-      </section>
-    </main>
-  );
-}
-```
+      
