@@ -29,7 +29,7 @@ export default function Home() {
         borderRadius: '5px',
         cursor: 'pointer'
       }}>
-        Get Started
+        
       </button>
       <section style={{
         backgroundColor: 'rgba(0,0,0,0.2)',
